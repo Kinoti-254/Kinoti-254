@@ -3,10 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F5D4&width=600&lines=Math+%26+Computer+Science+Student;Aspiring+Developer+%7C+Problem+Solver;Turning+Ideas+into+Code;Consistency+%3E+Motivation;Debugging...+Winning!)](https://git.io/typing-svg)
 
 💻 **Math & Computer Science Student** | Aspiring Developer | Problem Solver
-
 Focused on building practical, real-world applications through consistent learning and execution.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kinoti-254&color=00F5D4&style=flat-square&label=Profile+Views)
+
+---
+
+## 🏆 Recent Achievements
+
+| Project | Key Milestone | Date |
+|---|---|---|
+| Bill Splitter | Live on Render + CSV Export + Smart Settlements | Oct 2024 |
+| Contact Book | Modular CLI + JSON Persistence | Sep 2024 |
 
 ---
 
@@ -85,16 +93,12 @@ A full-stack web app that helps groups split bills fairly — no more awkward ma
 
 ## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinoti-254&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-</p>
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kinoti-254&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinoti-254&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kinoti-254&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Kinoti's GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Kinoti-254&theme=tokyonight&hide_border=true" height="180" alt="Kinoti's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinoti-254&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -103,19 +107,19 @@ A full-stack web app that helps groups split bills fairly — no more awkward ma
 
 <p align="left">
   <a href="https://wa.me/254111341897">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mark-kinoti-5aa3b72a7">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/kinoti_mark">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_.k.i.n.o.t.i._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/Kinoti-254">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
