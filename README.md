@@ -1,107 +1,193 @@
-# ✨ Hi, I'm Kinoti 👋
+<!-- header -->
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F5D4&width=600&lines=Math+%26+Computer+Science+Student;Aspiring+Developer+%7C+Problem+Solver;Turning+Ideas+into+Code;Consistency+%3E+Motivation;Debugging...+Winning!)](https://git.io/typing-svg)
+```
+██╗  ██╗██╗███╗   ██╗ ██████╗ ████████╗██╗
+██║ ██╔╝██║████╗  ██║██╔═══██╗╚══██╔══╝██║
+█████╔╝ ██║██╔██╗ ██║██║   ██║   ██║   ██║
+██╔═██╗ ██║██║╚██╗██║██║   ██║   ██║   ██║
+██║  ██╗██║██║ ╚████║╚██████╔╝   ██║   ██║
+╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝
+```
 
-💻 **Math & Computer Science Student** | Aspiring Developer | Problem Solver
-Focused on building practical, real-world applications through consistent learning and execution.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&width=650&lines=math+%7C+code+%7C+logic;debugging+life+one+error+at+a+time;O(n)+thinking%2C+O(1)+patience;build+%3E+talk;complexity+is+a+bug%2C+not+a+feature;git+commit+-m+%22still+learning%22)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kinoti-254&color=00F5D4&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Kinoti-254&color=00F5D4&style=flat-square&label=visits)
 
----
-
-## 🏆 Recent Achievements
-
-| Project | Key Milestone | Date |
-|---|---|---|
-| Bill Splitter | Live on Render + CSV Export + Smart Settlements | Oct 2024 |
-| Contact Book | Modular CLI + JSON Persistence | Sep 2024 |
-
----
-
-## 🌱 Currently Learning
-
-> Expanding my stack from Python fundamentals → full-stack web development
-
-| Focus Area | Status |
-|---|---|
-| React + Tailwind CSS | 🔄 In Progress |
-| Node.js + Express | 📅 Next Up |
-| Django REST Framework | 📅 Next Up |
+</div>
 
 ---
 
-## 🛠 Tech Stack
+```zsh
+~ $ whoami
+> kinoti                     # math & CS student
+> aspiring systems builder   # Nairobi, Kenya 🇰🇪
+> status: compiling...
+```
 
-### ✅ Comfortable With
+---
+
+## ⚡ kernel.conf
+
+```ini
+[identity]
+name        = Kinoti
+degree      = Mathematics & Computer Science
+mode        = builder
+philosophy  = systems over shortcuts
+
+[runtime]
+focus       = full-stack development
+approach    = clean architecture, modular design
+loop        = learn → build → break → debug → repeat
+
+[traits]
+consistency = true
+patience    = O(log n)   ; improves with experience
+curiosity   = unbounded  ; no upper limit
+```
+
+---
+
+## 🖥️ stack.json
+
+```json
+{
+  "languages":  ["Python", "JavaScript", "Java"],
+  "backend":    ["Flask", "SQLite"],
+  "frontend":   ["HTML", "CSS", "React (learning)"],
+  "tools":      ["Git", "VS Code"],
+  "exploring":  ["React", "Tailwind", "Node.js", "Express", "Django REST"],
+  "next_goal":  "ship a full-stack system end-to-end"
+}
+```
+
+### Installed packages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" width="50" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="50" title="Flask"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50" title="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 </p>
 
-### 🚀 Actively Exploring
+### Installing...
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50" title="Express"/>
-  <img src="https://skillicons.dev/icons?i=django" width="50" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=express" width="50"/>
+  <img src="https://skillicons.dev/icons?i=django" width="50"/>
 </p>
 
 ---
 
-## 🚧 Projects
+## 📦 /projects
 
-### 📌 Contact Book (Python CLI)
+```bash
+kinoti@dev:~$ tree ~/projects --dirsfirst
+projects/
+├── contact_book/     ← v1.0  [SHIPPED ✓]
+└── bill_splitter/    ← v1.0  [LIVE IN PROD ✓]
 
-A simple command-line contact book built with Python.
-
-- Add, list, and search contacts by name
-- Persistent storage using a JSON file
-- Modular design — separate files for each feature, easy to extend
-
-**Tech:** Python, JSON &nbsp;|&nbsp; **Concepts:** File handling, modular programming, CLI design
-
-🔗 [View Repo](https://github.com/Kinoti-254/contact_book)
+2 directories, countless commits
+```
 
 ---
 
-### 📌 Bill Splitter (Flask Web App)
+### `📁 contact_book/` &nbsp; ![](https://img.shields.io/badge/status-shipped-00F5D4?style=flat-square) ![](https://img.shields.io/badge/lang-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-A full-stack web app that helps groups split bills fairly — no more awkward math or chasing people for money.
+```python
+"""
+contact_book v1.0
+A command-line contact manager built with pure Python.
+No frameworks. No dependencies. Just clean logic.
+"""
 
-- 🔐 Secure user authentication with hashed passwords
-- 💱 Multi-currency support (KSH, USD, EUR, GBP, UGX, TZS)
-- ⚖️ Smart settlements that minimize transactions (who owes who)
-- 📊 Visual spending charts powered by Chart.js
-- 📁 CSV export + JSON API for bill data
-- 🚀 Deployed live on Render
+class ContactBook:
+    storage   = "contacts.json"    # persistent across sessions
+    structure = "modular"          # one file per operation
+    ops       = ["add", "search",
+                 "list", "delete"] # full CRUD via CLI
 
-**Tech:** Flask, Python, SQLite, HTML/CSS, JavaScript, Chart.js &nbsp;|&nbsp; **Concepts:** Auth & sessions, REST API design, database design, data visualization, deployment
+    def philosophy(self):
+        return "do one thing, do it well"  # Unix principle
+```
 
-🔗 [View Repo](https://github.com/Kinoti-254/bill-splitter) &nbsp;|&nbsp; 🌐 [Live Demo](https://bill-splitter-t26y.onrender.com)
+🔗 [`github.com/Kinoti-254/contact_book`](https://github.com/Kinoti-254/contact_book)
 
 ---
 
-## 📊 GitHub Dashboard
+### `📁 bill_splitter/` &nbsp; ![](https://img.shields.io/badge/status-LIVE-brightgreen?style=flat-square) ![](https://img.shields.io/badge/deployed-Render-6c47ff?style=flat-square) ![](https://img.shields.io/badge/lang-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+```python
+"""
+bill_splitter v1.0
+Full-stack expense splitting system.
+Auth + DB + API + Charts + CSV + Smart Settlements.
+This isn't a script. This is a system.
+"""
+
+class BillSplitter:
+    stack    = ["Flask", "SQLite", "Chart.js", "HTML/CSS/JS"]
+    deploy   = "Render (live)"
+    features = {
+        "auth"         : "bcrypt hashed passwords + session mgmt",
+        "currencies"   : ["KSH", "USD", "EUR", "GBP", "UGX", "TZS"],
+        "settlements"  : "graph optimization → min transactions",
+        "charts"       : "Chart.js — spending breakdowns",
+        "export"       : "CSV download per bill",
+        "api"          : "GET /api/bill/<id> → JSON",
+    }
+
+    def complexity(self):
+        return "O(V + E)"   # graph-based settlement algorithm
+```
+
+🔗 [`github.com/Kinoti-254/bill-splitter`](https://github.com/Kinoti-254/bill-splitter)
+🌐 [`bill-splitter-t26y.onrender.com`](https://bill-splitter-t26y.onrender.com)
+
+---
+
+## 📊 /metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinoti-254&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Kinoti's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Kinoti-254&theme=tokyonight&hide_border=true" height="180" alt="Kinoti's GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinoti-254&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Kinoti-254&theme=tokyonight&hide_border=true" height="170" alt="Kinoti's Streak"/>
 </p>
 
 ---
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinoti-254&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
 
-## 🔗 Connect with Me
+---
+<!-- CURRENT STATE -->
+## ⚙️ process.list
+
+```
+PID    PROCESS                     CPU    STATUS
+────────────────────────────────────────────────────────
+1001   learning_react.sh           HIGH   running
+1002   building_projects.py        HIGH   running
+1003   reading_docs.service        MED    running
+1004   grinding_dsa.exe            MED    running
+1005   sleep.service               LOW    suspended
+1006   social_media.app            0.1%   backgrounded
+```
+
+---
+## 📡 /connect
+
+```txt
+> establishing secure connection...
+```
 
 <p align="left">
   <a href="https://wa.me/254111341897">
@@ -123,4 +209,11 @@ A full-stack web app that helps groups split bills fairly — no more awkward ma
 
 ---
 
-✨ *"Stay consistent — even 1% progress a day compounds into something great."*
+<div align="center">
+
+```
+"Small commits. Daily builds. Compounding results."
+— git log --oneline | tail -1
+```
+
+</div>
