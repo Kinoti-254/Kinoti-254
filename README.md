@@ -93,8 +93,6 @@ A full-stack web app that helps groups split bills fairly — no more awkward ma
 
 ## 📊 GitHub Dashboard
 
-## 📊 GitHub Dashboard
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kinoti-254&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Kinoti's GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=Kinoti-254&theme=tokyonight&hide_border=true" height="180" alt="Kinoti's GitHub Streak"/>
