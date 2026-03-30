@@ -12,8 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&width=650&lines=math+%7C+code+%7C+logic;debugging+life+one+error+at+a+time;O(n)+thinking%2C+O(1)+patience;build+%3E+talk;complexity+is+a+bug%2C+not+a+feature;git+commit+-m+%22still+learning%22)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kinoti-254&color=00F5D4&style=flat-square&label=visits)
-
 </div>
 
 ---
