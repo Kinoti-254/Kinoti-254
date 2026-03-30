@@ -77,7 +77,7 @@ Focused on building practical, real-world applications through consistent learni
 
 <p align="left">
   <a href="https://wa.me/254111341897">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="50"/>
   </a>
   <a href="https://www.instagram.com/_.k.i.n.o.t.i._">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
