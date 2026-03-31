@@ -13,7 +13,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&width=650&lines=math+%7C+code+%7C+logic;debugging+life+one+error+at+a+time;O(n)+thinking%2C+O(1)+patience;build+%3E+talk;complexity+is+a+bug%2C+not+a+feature;git+commit+-m+%22still+learning%22)](https://git.io/typing-svg)
 
 </div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/status-building%20real%20systems-00F5D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/focus-backend%20%2B%20systems-blue?style=for-the-badge"/>
+</p>
 ---
 
 ```zsh
@@ -156,16 +159,15 @@ class BillSplitter:
 ## 📊 /metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kinoti-254&theme=tokyonight&hide_border=true" height="170" alt="Kinoti's Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kinoti-254&theme=tokyonight&hide_border=true" width="100%" alt="Kinoti's Streak"/>
 </p>
 
----
-<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinoti-254&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinoti-254&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
+
 <!-- CURRENT STATE -->
 ## ⚙️ process.list
 
