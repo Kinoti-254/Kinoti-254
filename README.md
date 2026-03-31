@@ -1,4 +1,5 @@
 <!-- header -->
+
 <div align="center">
 
 ```
@@ -10,42 +11,38 @@
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&width=650&lines=math+%7C+code+%7C+logic;debugging+life+one+error+at+a+time;O(n)+thinking%2C+O(1)+patience;build+%3E+talk;complexity+is+a+bug%2C+not+a+feature;git+commit+-m+%22still+learning%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=00F5D4\&center=true\&width=650\&lines=math+%7C+code+%7C+logic;systems+%3E+scripts;build+%3E+talk;complexity+is+a+bug%2C+not+a+feature;debugging+life+one+error+at+a+time)](https://git.io/typing-svg)
 
 </div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/status-building%20real%20systems-00F5D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/focus-backend%20%2B%20systems-blue?style=for-the-badge"/>
 </p>
+
 ---
 
 ```zsh
 ~ $ whoami
 > kinoti                     # math & CS student
-> aspiring systems builder   # Nairobi, Kenya 🇰🇪
+> systems builder            # Nairobi, Kenya 🇰🇪
 > status: compiling...
 ```
 
 ---
 
-## ⚡ kernel.conf
+## 🧠 mental_model.sys
 
-```ini
-[identity]
-name        = Kinoti
-degree      = Mathematics & Computer Science
-mode        = builder
-philosophy  = systems over shortcuts
+```txt
+I don't just write code.
 
-[runtime]
-focus       = full-stack development
-approach    = clean architecture, modular design
-loop        = learn → build → break → debug → repeat
+I think in:
+- systems, not scripts
+- data flow, not just syntax
+- failure modes, not just happy paths
+- complexity tradeoffs
 
-[traits]
-consistency = true
-patience    = O(log n)   ; improves with experience
-curiosity   = unbounded  ; no upper limit
+Code is just the final layer.
 ```
 
 ---
@@ -59,11 +56,11 @@ curiosity   = unbounded  ; no upper limit
   "frontend":   ["HTML", "CSS", "React (learning)"],
   "tools":      ["Git", "VS Code"],
   "exploring":  ["React", "Tailwind", "Node.js", "Express", "Django REST"],
-  "next_goal":  "ship a full-stack system end-to-end"
+  "next_goal":  "build a scalable multi-user system with real-world traffic"
 }
 ```
 
-### Installed packages
+### Installed
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="50"/>
@@ -92,101 +89,104 @@ curiosity   = unbounded  ; no upper limit
 ## 📦 /projects
 
 ```bash
-kinoti@dev:~$ tree ~/projects --dirsfirst
 projects/
 ├── contact_book/     ← v1.0  [SHIPPED ✓]
 └── bill_splitter/    ← v1.0  [LIVE IN PROD ✓]
-
-2 directories, countless commits
 ```
 
 ---
 
-### `📁 contact_book/` &nbsp; ![](https://img.shields.io/badge/status-shipped-00F5D4?style=flat-square) ![](https://img.shields.io/badge/lang-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🚀 bill_splitter (flagship system)
 
-```python
-"""
-contact_book v1.0
-A command-line contact manager built with pure Python.
-No frameworks. No dependencies. Just clean logic.
-"""
-
-class ContactBook:
-    storage   = "contacts.json"    # persistent across sessions
-    structure = "modular"          # one file per operation
-    ops       = ["add", "search",
-                 "list", "delete"] # full CRUD via CLI
-
-    def philosophy(self):
-        return "do one thing, do it well"  # Unix principle
+```bash
+> system      : bill_splitter
+> status      : production
+> users       : active (growing)
+> core_logic  : graph optimization (min transactions)
+> api         : /api/bill/<id>
+> deploy      : render
 ```
 
-🔗 [`github.com/Kinoti-254/contact_book`](https://github.com/Kinoti-254/contact_book)
-
----
-
-### `📁 bill_splitter/` &nbsp; ![](https://img.shields.io/badge/status-LIVE-brightgreen?style=flat-square) ![](https://img.shields.io/badge/deployed-Render-6c47ff?style=flat-square) ![](https://img.shields.io/badge/lang-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ```python
-"""
-bill_splitter v1.0
-Full-stack expense splitting system.
-Auth + DB + API + Charts + CSV + Smart Settlements.
-This isn't a script. This is a system.
-"""
-
 class BillSplitter:
-    stack    = ["Flask", "SQLite", "Chart.js", "HTML/CSS/JS"]
-    deploy   = "Render (live)"
-    features = {
-        "auth"         : "bcrypt hashed passwords + session mgmt",
-        "currencies"   : ["KSH", "USD", "EUR", "GBP", "UGX", "TZS"],
-        "settlements"  : "graph optimization → min transactions",
-        "charts"       : "Chart.js — spending breakdowns",
-        "export"       : "CSV download per bill",
-        "api"          : "GET /api/bill/<id> → JSON",
-    }
+    stack = ["Flask", "SQLite", "Chart.js"]
+
+    def reality(self):
+        return [
+            "multi-user expense tracking",
+            "graph-based debt minimization",
+            "real-world currency handling",
+            "production deployment"
+        ]
 
     def complexity(self):
-        return "O(V + E)"   # graph-based settlement algorithm
+        return "O(V + E)"
 ```
 
-🔗 [`github.com/Kinoti-254/bill-splitter`](https://github.com/Kinoti-254/bill-splitter)
-🌐 [`bill-splitter-t26y.onrender.com`](https://bill-splitter-t26y.onrender.com)
+🔗 https://github.com/Kinoti-254/bill-splitter
+🌐 https://bill-splitter-t26y.onrender.com
+
+---
+
+### 📁 contact_book
+
+```python
+class ContactBook:
+    storage   = "contacts.json"
+    structure = "modular"
+    ops       = ["add", "search", "list", "delete"]
+```
+
+🔗 https://github.com/Kinoti-254/contact_book
+
+---
+
+## 🐞 debug.log
+
+```txt
+[2026-03-10] broke auth → fixed session handling  
+[2026-03-18] slow settlements → optimized using graph logic  
+[2026-03-25] UI inconsistency → refactored components  
+
+status: improving through iteration
+```
 
 ---
 
 ## 📊 /metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kinoti-254&theme=tokyonight&hide_border=true" width="100%" alt="Kinoti's Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kinoti-254&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinoti-254&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinoti-254&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-<!-- CURRENT STATE -->
 ## ⚙️ process.list
 
 ```
 PID    PROCESS                     CPU    STATUS
-────────────────────────────────────────────────────────
+───────────────────────────────────────────────
 1001   learning_react.sh           HIGH   running
 1002   building_projects.py        HIGH   running
 1003   reading_docs.service        MED    running
 1004   grinding_dsa.exe            MED    running
-1005   sleep.service               LOW    suspended
+1005   sleep.service               LOW    killed ☠️
 1006   social_media.app            0.1%   backgrounded
 ```
 
 ---
+
 ## 📡 /connect
 
 ```txt
 > establishing secure connection...
+> status: reachable
+> latency: low
 ```
 
 <p align="left">
@@ -212,8 +212,7 @@ PID    PROCESS                     CPU    STATUS
 <div align="center">
 
 ```
-"Small commits. Daily builds. Compounding results."
-— git log --oneline | tail -1
+"Build things that break. Fix them. Repeat until undeniable."
 ```
 
 </div>
