@@ -51,11 +51,11 @@ Code is just the final layer.
 
 ```json
 {
-  "languages":  ["Python", "JavaScript", "Java"],
-  "backend":    ["Flask", "SQLite"],
-  "frontend":   ["HTML", "CSS", "React (learning)"],
-  "tools":      ["Git", "VS Code"],
-  "exploring":  ["React", "Tailwind", "Node.js", "Express", "Django REST"],
+  "languages":  ["Python", "JavaScript", "TypeScript", "Java"],
+  "backend":    ["Flask", "SQLite", "Supabase"],
+  "frontend":   ["HTML", "CSS", "React", "Next.js"],
+  "tools":      ["Git", "VS Code", "Zustand"],
+  "exploring":  ["Tailwind", "Node.js", "Express", "Django REST"],
   "next_goal":  "build a scalable multi-user system with real-world traffic"
 }
 ```
@@ -67,17 +67,20 @@ Code is just the final layer.
   <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
   <img src="https://skillicons.dev/icons?i=java" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" width="50"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
   <img src="https://skillicons.dev/icons?i=html" width="50"/>
   <img src="https://skillicons.dev/icons?i=css" width="50"/>
   <img src="https://skillicons.dev/icons?i=git" width="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+  <img src="https://skillicons.dev/icons?i=supabase" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
 </p>
 
 ### Installing...
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
   <img src="https://skillicons.dev/icons?i=express" width="50"/>
