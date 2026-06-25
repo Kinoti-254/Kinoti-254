@@ -90,8 +90,8 @@ Code is just the final layer.
 
 ```bash
 projects/
-├── contact_book/     ← v1.0  [SHIPPED ✓]
-└── bill_splitter/    ← v1.0  [LIVE IN PROD ✓]
+├── bill_splitter/     ← v1.0  [LIVE IN PROD ✓]
+└── scents/    ← v1.0  [SHIPPED ✓]
 ```
 
 ---
@@ -129,16 +129,40 @@ class BillSplitter:
 
 ---
 
-### 📁 contact_book
+### 🛍️ scents (client project)
 
-```python
-class ContactBook:
-    storage   = "contacts.json"
-    structure = "modular"
-    ops       = ["add", "search", "list", "delete"]
+```bash
+> system      : scents
+> type        : e-commerce platform
+> client      : Sam
+> status      : shipped & handed over
+> stack       : Next.js · TypeScript · Supabase · Zustand
+> deploy      : vercel
 ```
 
-🔗 https://github.com/Kinoti-254/contact_book
+```typescript
+class Scents {
+  stack = ["Next.js", "TypeScript", "Supabase", "Zustand"];
+
+  reality() {
+    return [
+      "product browsing with categories",
+      "product detail with quantity + decant size",
+      "cart with localStorage persistence (Zustand)",
+      "WhatsApp click-to-chat order flow",
+      "optional order saving to Supabase",
+      "admin dashboard — products, categories, content",
+    ];
+  }
+
+  status() {
+    return "HANDED OVER ✓";
+  }
+}
+```
+
+🔗 https://github.com/Kinoti-254/scents
+🌐 https://scents-wine.vercel.app
 
 ---
 
