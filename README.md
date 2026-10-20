@@ -1,245 +1,53 @@
-<!-- header -->
-
 <div align="center">
 
-```
-██╗  ██╗██╗███╗   ██╗ ██████╗ ████████╗██╗
-██║ ██╔╝██║████╗  ██║██╔═══██╗╚══██╔══╝██║
-█████╔╝ ██║██╔██╗ ██║██║   ██║   ██║   ██║
-██╔═██╗ ██║██║╚██╗██║██║   ██║   ██║   ██║
-██║  ██╗██║██║ ╚████║╚██████╔╝   ██║   ██║
-╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝
-```
+# Hi, I'm Mark Kinoti 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=00F5D4\&center=true\&width=650\&lines=math+%7C+code+%7C+logic;systems+%3E+scripts;build+%3E+talk;complexity+is+a+bug%2C+not+a+feature;debugging+life+one+error+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5D4&center=true&width=600&lines=Math+%26+CS+student+%40+Kenyatta+University;Backend+%2B+full-stack+developer;Founder%2C+Byte+Dev+KE)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-building%20real%20systems-00F5D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/focus-backend%20%2B%20systems-blue?style=for-the-badge"/>
-</p>
+## About me
 
----
+- 🎓 3rd-year Mathematics & Computer Science student at Kenyatta University
+- 🛠️ Founder of **Byte Dev KE**: building web apps for small businesses in Kenya
+- 📍 Nairobi, Kenya
+- 🎯 Interested in backend systems, data modelling, and applying math to real problems
 
-```zsh
-~ $ whoami
-> kinoti                     # math & CS student
-> systems builder            # Nairobi, Kenya 🇰🇪
-> status: compiling...
-```
+## Tech stack
 
----
-
-## 🧠 mental_model.sys
-
-```txt
-I don't just write code.
-
-I think in:
-- systems, not scripts
-- data flow, not just syntax
-- failure modes, not just happy paths
-- complexity tradeoffs
-
-Code is just the final layer.
-```
-
----
-
-## 🖥️ stack.json
-
-```json
-{
-  "languages":  ["Python", "JavaScript", "TypeScript", "Java"],
-  "backend":    ["Flask", "SQLite", "Supabase"],
-  "frontend":   ["HTML", "CSS", "React", "Next.js"],
-  "tools":      ["Git", "VS Code", "Zustand"],
-  "exploring":  ["Tailwind", "Node.js", "Express", "Django REST"],
-  "next_goal":  "build a scalable multi-user system with real-world traffic"
-}
-```
-
-### Installed
+**Comfortable with**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
-  <img src="https://skillicons.dev/icons?i=java" width="50"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="50"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
-  <img src="https://skillicons.dev/icons?i=supabase" width="50"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,js,ts,react,nextjs,supabase,html,css,git&perline=11" />
 </p>
 
-### Installing...
+**Currently learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50"/>
-  <img src="https://skillicons.dev/icons?i=django" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java,tailwind,nodejs,express,django&perline=5" />
 </p>
 
----
+## Projects
 
-## 📦 /projects
+<!--
+  Add each new project here as it ships. Keep the same format:
+  name, one line on what it does, stack, repo link, live demo link.
 
-```bash
-projects/
-├── bill_splitter/     ← v1.0  [LIVE IN PROD ✓]
-└── scents/    ← v1.0  [SHIPPED ✓]
-```
+### Project name
+One sentence on what it does and who it's for.
+**Stack:** Flask · SQLite
+🔗 [Repo](https://github.com/Kinoti-254/REPO) · 🌐 [Live demo](https://LINK)
+-->
 
----
+🚧 New projects in progress. Check back soon.
 
-### 🚀 bill_splitter (flagship system)
-
-```bash
-> system      : bill_splitter
-> status      : production
-> users       : active (growing)
-> core_logic  : graph optimization (min transactions)
-> api         : /api/bill/<id>
-> deploy      : render
-```
-
-
-```python
-class BillSplitter:
-    stack = ["Flask", "SQLite", "Chart.js"]
-
-    def reality(self):
-        return [
-            "multi-user expense tracking",
-            "graph-based debt minimization",
-            "real-world currency handling",
-            "production deployment"
-        ]
-
-    def complexity(self):
-        return "O(V + E)"
-```
-
-🔗 https://github.com/Kinoti-254/bill-splitter
-🌐 https://bill-splitter-t26y.onrender.com
-
----
-
-### 🛍️ scents (client project)
-
-```bash
-> system      : scents
-> type        : e-commerce platform
-> client      : Sam
-> status      : shipped & handed over
-> stack       : Next.js · TypeScript · Supabase · Zustand
-> deploy      : vercel
-```
-
-```typescript
-class Scents {
-  stack = ["Next.js", "TypeScript", "Supabase", "Zustand"];
-
-  reality() {
-    return [
-      "product browsing with categories",
-      "product detail with quantity + decant size",
-      "cart with localStorage persistence (Zustand)",
-      "WhatsApp click-to-chat order flow",
-      "optional order saving to Supabase",
-      "admin dashboard — products, categories, content",
-    ];
-  }
-
-  status() {
-    return "HANDED OVER ✓";
-  }
-}
-```
-
-🔗 https://github.com/Kinoti-254/scents
-🌐 https://scents-wine.vercel.app
-
----
-
-## 🐞 debug.log
-
-```txt
-[2026-03-10] broke auth → fixed session handling  
-[2026-03-18] slow settlements → optimized using graph logic  
-[2026-03-25] UI inconsistency → refactored components  
-
-status: improving through iteration
-```
-
----
-
-## 📊 /metrics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kinoti-254&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinoti-254&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## ⚙️ process.list
-
-```
-PID    PROCESS                     CPU    STATUS
-───────────────────────────────────────────────
-1001   learning_react.sh           HIGH   running
-1002   building_projects.py        HIGH   running
-1003   reading_docs.service        MED    running
-1004   grinding_dsa.exe            MED    running
-1005   sleep.service               LOW    killed ☠️
-1006   social_media.app            0.1%   backgrounded
-```
-
----
-
-## 📡 /connect
-
-```txt
-> establishing secure connection...
-> status: reachable
-> latency: low
-```
+## Connect
 
 <p align="left">
-  <a href="https://wa.me/254111341897">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/mark-kinoti-5aa3b72a7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/kinoti_mark">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_.k.i.n.o.t.i._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Kinoti-254">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
-
----
-
-<div align="center">
-
-```
-"Build things that break. Fix them. Repeat until undeniable."
-```
-
-</div>
